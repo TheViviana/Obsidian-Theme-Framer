@@ -1,8 +1,7 @@
 {
   "name": "Framer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "minAppVersion": "1.0.0",
   "author": "TheViviana",
-  "authorUrl": "https://github.com/TheViviana",
-  "screenshot": "screenshot.png"
+  "authorUrl": "https://github.com/TheViviana"
 }
