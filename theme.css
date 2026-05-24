@@ -1986,7 +1986,7 @@ body.framer-mobile.is-mobile .view-header {
 }
 
 body.framer-mobile.is-mobile .view-header-title {
-  font-size: 13px !important;
+  font-size: 13px;
 }
 
 /* ── Dropdown menu ── */
@@ -2056,7 +2056,7 @@ body.accent-purple.framer-heading-gradient .theme-dark {
 
 /* ── Reduce Motion Override ── */
 body.reduce-motion * {
-  transition: none !important;
+  transition: none;
 }
 
 /* ── Selection ── */
@@ -2237,28 +2237,28 @@ body.framer-line-nums .cm-foldPlaceholder {
   background: linear-gradient(90deg, #ff6b6b, #ff8e8e);
   -webkit-background-clip: text;
   background-clip: text;
-  color: transparent !important;
+  color: transparent;
 }
 
 /* ══════════════════════════════════════════
    Snippet: Minimal Tables
    ══════════════════════════════════════════ */
 .markdown-rendered table {
-  width: 100% !important;
-  border: none !important;
+  width: 100%;
+  border: none;
   border-collapse: collapse;
-  table-layout: auto !important;
+  table-layout: auto;
 }
 .markdown-rendered th,
 .markdown-rendered td {
-  border: none !important;
-  border-bottom: 1px solid var(--color-gray-700) !important;
+  border: none;
+  border-bottom: 1px solid var(--color-gray-700);
   padding: 10px 14px;
-  background: transparent !important;
+  background: transparent;
   vertical-align: top;
 }
 .markdown-rendered thead th {
-  border-bottom: 1.5px solid var(--color-gray-500) !important;
+  border-bottom: 1.5px solid var(--color-gray-500);
   font-weight: 600;
 }
 
